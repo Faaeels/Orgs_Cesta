@@ -86,8 +86,3 @@ Pronto, agora o app você deve ver o app rodando.
 
 
 
-
-
-
-# User Experience 
-
